@@ -14,13 +14,13 @@ Studygram is a class-scoped gamified social learning platform that targets initi
 - One-click group study session creation where groups have the option to meet IRL or online→ post-session journal log window to submit a list of participants and photos of notes (available for reporting offline sessions as well); pop-up if there was no participation for a while. 
 - Award people for their contribution to the community→ earn points that unlock group items and credits to customize the Pet. A user starts with a pet whose looks correspond to their results on a “learner type” quiz; after that, with a certain number of contribution points, the pet grows up.
 ## Competitive Analysis
-|   |  App Name        |  Peer Matching  |  Virtual Pet  |  Professor/TA Reliant  | Team communication |  Reward system  |  Study-focused  |   |   |
-|---|------------------|-----------------|---------------|------------------------|--------------|-----------------|-----------------|---|---|
-|   | FocusMate        | O               | X             | X                      |  O           | X               | O               |   |   |
-|   | CLASSUM          | X               | X             | O                      | O            | ~               | O               |   |   |
-|   | Yeolpumta (YPT)  | ~               | X             | X                      | O            | X               | O               |   |   |
-|   | Studygram        | O               | O             | X                      | O            | O               | O               |   |   |
-|   |                  |                 |               |  | | | |
+|  App Name        |  Peer Matching  |  Virtual Pet  |  Professor/TA Reliant  | Team communication |  Reward system  |  Study-focused  |
+|------------------|-----------------|---------------|------------------------|--------------|-----------------|-----------------|
+| FocusMate        | O               | X             | X                      |  O           | X               | O               |
+| CLASSUM          | X               | X             | O                      | O            | ~               | O               |
+| Yeolpumta (YPT)  | ~               | X             | X                      | O            | X               | O               |
+| Studygram        | O               | O             | X                      | O            | O               | O               | 
+|                  |                 |               |  | | ||
 
 
 ~ - somewhat applicable
