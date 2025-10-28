@@ -20,7 +20,7 @@ It's the best
 - Only the quiz is implemented among all Sign Up steps since the rest is irrelevant to our chosen problem's solution
 - Consequences of othersdown- or upvoting one's cards are not displayed, though it will be reflected in coin count or similar stats
 #### Representative screenshots
-<img src="images/learner_type.png" alt="Quiz Result 1" width="200"/><img src="images/group_match.png" alt="Quiz Result 2" width="200"/>
+<img src="images/learner_type.png" alt="Quiz Result 1" width="200"/>   <img src="images/group_match.png" alt="Quiz Result 2" width="200"/>
 
 #### Instructions
 
