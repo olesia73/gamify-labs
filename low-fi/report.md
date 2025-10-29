@@ -66,6 +66,7 @@ Participant 3 (P3) - Insar
 - Frequently works on independent group projects 
 
 #### Usability Problems Discovered
+
 ONBOARDING & QUIZ FLOW
 1. Insufficient first-time user guidance [HIGH]
     - Users received no introduction or contextual help when first using the app (P1)
@@ -81,7 +82,7 @@ ONBOARDING & QUIZ FLOW
     - Plan: Add a back button
 
 NAVIGATION & INFORMATION ARCHITECTURE
-3. Back button returns to start instead of previous screen [HIGH]
+1. Back button returns to start instead of previous screen [HIGH]
     - Back navigation takes users to the beginning rather than one step backward (P1/P3)
     - P1 stated "go back is taking back to the start and not just one step back"
     - Plan: Implement proper navigation history stack so back returns to immediately previous screen
@@ -102,7 +103,7 @@ NAVIGATION & INFORMATION ARCHITECTURE
     - Plan: Increase contrast or use outlined icon style; consider relocating to standard position
 
 STUDY CARD CREATION
-8. Card types not clearly differentiated [HIGH]
+1. Card types not clearly differentiated [HIGH]
     - Users don't understand differences between Title, Studygram, and Question card types (P1)
     - When asked if she understood card types, P1 answered "she didn't"
     - Plan: Add descriptive subtitles under each type: "Title: Headers & dividers", "Studygram: Visual notes", "Question: Q&A flashcards"
@@ -111,23 +112,23 @@ STUDY CARD CREATION
     - P1 asked "Add it to set what set? Do you mean the course? If I am already in social computing group then what's the point of adding it to a set"
     - Plan: Replace "set" with clearer term like "Course" or "Subject" and add contextual explanation
 10. Color picker offers too many options [LOW]
-- Excessive color choices are overwhelming and unnecessary (P2)
-- Plan: Reduce to 8-12 curated colors with optional custom color for advanced users
+    - Excessive color choices are overwhelming and unnecessary (P2)
+    - Plan: Reduce to 8-12 curated colors with optional custom color for advanced users
 
 GROUP STUDY SESSIONS
-11. Timer purpose completely unclear [HIGH]
-- Users don't understand what the study session timer is for or when to use it (P1)
-- P1 asked "why set the timer? To see how long people contribute?"
-- Plan: Add tooltip: "Start timer when group begins studying to track session and earn coins together"
-12. Study session value proposition unclear [MEDIUM]
-- Users questioned the overall purpose and benefit of creating sessions (P3)
-- P3 asked "didn't make sense what is the point"
-- Plan: Add benefit-focused copy explaining sessions and show examples of successful sessions
+1. Timer purpose completely unclear [HIGH]
+    - Users don't understand what the study session timer is for or when to use it (P1)
+    - P1 asked "why set the timer? To see how long people contribute?"
+    - Plan: Add tooltip: "Start timer when group begins studying to track session and earn coins together"
+1. Study session value proposition unclear [MEDIUM]
+    - Users questioned the overall purpose and benefit of creating sessions (P3)
+    - P3 asked "didn't make sense what is the point"
+    - Plan: Add benefit-focused copy explaining sessions and show examples of successful sessions
 
 VISUAL DESIGN
-13. Excessive color usage reduces clarity [LOW]
-- Too many different colors used, reducing visual hierarchy (P1)
-- P1 advised "Be mindful of colours. Minimize the colours or use different shades of green"
-- Plan: Establish disciplined color system with 1 primary color, 1-2 accents, and neutral grays
+1. Excessive color usage reduces clarity [LOW]
+    - Too many different colors used, reducing visual hierarchy (P1)
+    - P1 advised "Be mindful of colours. Minimize the colours or use different shades of green"
+    - Plan: Establish disciplined color system with 1 primary color, 1-2 accents, and neutral grays
 
 Testing with P1, P2, and P3 revealed that while the core concept resonated ("would use it if there is someone actually helpful there"), the app suffers from unclear terminology, insufficient onboarding, and missing contextual guidance. The most critical issues to address are: (1) adding first-time user onboarding, (2) fixing back navigation, (3) clarifying card types and "set" terminology, and (4) explaining the timer purpose. P1 appreciated the quiz concept and basic navigation but noted "it took time to learn how to use it... just some functions not clear."
