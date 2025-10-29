@@ -43,4 +43,91 @@ This tool is designed to help students find social learning opportunities within
 #### Instructions
 
 ## Observations from User-testing
+#### Participants
+Participant 1 (P1) - Jana
+- 21-year-old Industrial Design undergraduate student
+- igh tech proficiency with Apple ecosystem; heavy social media user
+- Uses ChatGPT, Google Docs, and Apple Notes for studying
+- Has used Quizlet but doesn't create own flashcards
+- Prefers studying alone for difficult material, with friends for simpler tasks
+- Frequently works on group projects with discussion-based study sessions 
 
+Participant 2 (P2) - Sebastian
+- 21-year-old Business Computer Science undergraduate exchange student
+- Never used flashcards for studying
+- Has to study alone because he is an exchange student at KAIST
+
+Participant 3 (P3) - Insar
+- 20-year-old Chemical Biomolecular engineering undergraduate student
+- Social media user
+- Uses ChatGPT, Notion, and Zoom for studying
+- Has used Anki but doesn't create flashcards
+- Prefers studying with friends for difficult material, alone for simpler tasks
+- Frequently works on independent group projects 
+
+#### Usability Problems Discovered
+ONBOARDING & QUIZ FLOW
+1. Insufficient first-time user guidance [HIGH]
+    - Users received no introduction or contextual help when first using the app (P1)
+    - P1 requested "more introduction from the beginning to ease in the user"
+    - Plan: Create a 3-4 screen tutorial flow on first launch highlighting key features, with skip option
+2. Quiz options too restrictive [LOW]
+    - Multiple-choice format forced users to select one option when multiple may apply (P2)
+    - P2 noted "some people like all the options but you can only choose one"
+    - Plan: Allow multiple selections where appropriate or add "It depends" options
+2. Can’t go back in the quiz [HIGH]
+    - Users can’t go back to the question in case they want to change their answer. (P3)
+    - P3 said "I understood the question wrong, but now I can’t change my answer, it might assign me the wrong learning type"
+    - Plan: Add a back button
+
+NAVIGATION & INFORMATION ARCHITECTURE
+3. Back button returns to start instead of previous screen [HIGH]
+    - Back navigation takes users to the beginning rather than one step backward (P1/P3)
+    - P1 stated "go back is taking back to the start and not just one step back"
+    - Plan: Implement proper navigation history stack so back returns to immediately previous screen
+4. Home and social screens visually too similar [MEDIUM]
+    - Visual similarity between screens caused confusion about location and available actions (P1)
+    - P1 said screens "should be more different" as she expected same buttons but found different ones
+    - Plan: Differentiate screens through distinct color schemes, headers, or layouts
+5. Cannot review questions while creating answer cards [MEDIUM]
+    - Users cannot see the question while typing the answer (P2)
+    - P2 said "I couldn't go back and see the question"
+    - Plan: Implement split-screen or collapsible view keeping question visible during answer entry
+6. No contextual help system available [MEDIUM]
+    - No tooltips or info icons to provide clarification when needed (P1/P2)
+    - P2 suggested "some popups should show when you hold over things for more info"
+    - Plan: Add info icons next to complex features with tap/hold explanations for mobile
+7. Settings button lacks visibility [LOW]
+    - Settings button blends into background and is difficult to notice (P3)
+    - Plan: Increase contrast or use outlined icon style; consider relocating to standard position
+
+STUDY CARD CREATION
+8. Card types not clearly differentiated [HIGH]
+    - Users don't understand differences between Title, Studygram, and Question card types (P1)
+    - When asked if she understood card types, P1 answered "she didn't"
+    - Plan: Add descriptive subtitles under each type: "Title: Headers & dividers", "Studygram: Visual notes", "Question: Q&A flashcards"
+9. "Set" terminology completely unclear [MEDIUM]
+    - Users confused about what "set" means - course, collection, or something else (P1)
+    - P1 asked "Add it to set what set? Do you mean the course? If I am already in social computing group then what's the point of adding it to a set"
+    - Plan: Replace "set" with clearer term like "Course" or "Subject" and add contextual explanation
+10. Color picker offers too many options [LOW]
+- Excessive color choices are overwhelming and unnecessary (P2)
+- Plan: Reduce to 8-12 curated colors with optional custom color for advanced users
+
+GROUP STUDY SESSIONS
+11. Timer purpose completely unclear [HIGH]
+- Users don't understand what the study session timer is for or when to use it (P1)
+- P1 asked "why set the timer? To see how long people contribute?"
+- Plan: Add tooltip: "Start timer when group begins studying to track session and earn coins together"
+12. Study session value proposition unclear [MEDIUM]
+- Users questioned the overall purpose and benefit of creating sessions (P3)
+- P3 asked "didn't make sense what is the point"
+- Plan: Add benefit-focused copy explaining sessions and show examples of successful sessions
+
+VISUAL DESIGN
+13. Excessive color usage reduces clarity [LOW]
+- Too many different colors used, reducing visual hierarchy (P1)
+- P1 advised "Be mindful of colours. Minimize the colours or use different shades of green"
+- Plan: Establish disciplined color system with 1 primary color, 1-2 accents, and neutral grays
+
+Testing with P1, P2, and P3 revealed that while the core concept resonated ("would use it if there is someone actually helpful there"), the app suffers from unclear terminology, insufficient onboarding, and missing contextual guidance. The most critical issues to address are: (1) adding first-time user onboarding, (2) fixing back navigation, (3) clarifying card types and "set" terminology, and (4) explaining the timer purpose. P1 appreciated the quiz concept and basic navigation but noted "it took time to learn how to use it... just some functions not clear."
