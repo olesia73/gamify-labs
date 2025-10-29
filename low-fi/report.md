@@ -101,6 +101,11 @@ NAVIGATION & INFORMATION ARCHITECTURE
 7. Settings button lacks visibility [LOW]
     - Settings button blends into background and is difficult to notice (P3)
     - Plan: Increase contrast or use outlined icon style; consider relocating to standard position
+1. Accessing study cards only through group profile [HIGH]
+    - The study cards can be only accessed through accessing the group profile, although they are general.
+    - P2 asked “why do I have chemistry and social computing on the same page, if I access the cards through my study group?”
+    - Plan: Put study cards in the personal profile menu, rather than group profile.
+
 
 STUDY CARD CREATION
 1. Card types not clearly differentiated [HIGH]
