@@ -23,11 +23,11 @@ University students miss out on collaborative study opportunities in classes due
     - **Why this solves the problem:** It makes collaboration effortless and natural, as the app notifies the groupmates, the user doesn’t have to initiate conversations and planning themselves.
 
 ## Prototype
-#### Link
+### Link
 Our prototype is available here: [Figma prototype](https://www.figma.com/design/umK9e0xpKP2qjlNV1JeIfc/Studygram?node-id=0-1&m=dev). It is a dev link, please enter the presentation mode for Start flowx to view it.
-#### Summary
+### Summary
 This tool is designed to help students find social learning opportunities within a class. Those opportunities range from being matched to a group according to your learning type quiz result to receiving feedback from other students about the flashcards you created. Logically, the user can also submit feedback about others' cards and simply use them for studying (which is not social on its own but is facilitated by shared resources available to all students instead of isolating "every man for themselves" approach). The flashcards smoothen interactions with the entire class and possibly the whole university, while our last feature, group study sessions, provides a way to bond with the group one is assigned to and as a bonus gain more access to other study resources (for instance, by receiving coins for a completed session that flashcard sets can be purchased with). 
-#### Design Choices
+### Design Choices
 - Gamified elements such as walking around and approaching others with your avatar pet due to Figma's limitations of prototyping continuous movement
 - Typing is not implemented and instead hard-coded into the prototype
 - Only the quiz is implemented among all Sign Up steps since the rest is irrelevant to our chosen problem's solution
@@ -37,10 +37,47 @@ This tool is designed to help students find social learning opportunities within
 - Coin count is not reflected correctly in all the transitions to enable loops in the prototype
 - Low-fi prototype of group study session reflects the general flow of the process and does not address edge cases such as users attempting to game the system
 - Profile settings are not simulated because they are not core to our solution
-#### Representative screenshots
+### Representative screenshots
 <img src="images/learner_type.png" alt="Quiz Result 1" width="200"/>   <img src="images/group_match.png" alt="Quiz Result 2" width="200"/>
 
-#### Instructions
+### Instructions
+**Task 1 Instruction**
+1. After reading the question, click the answer that applies to you the most.
+1. The chosen option will light up, press next to move to the next question. If unsure, change the answer.
+1. Get to know your learning type and your pet after completing the quiz. 
+1. To join a study group, click the “find study buddies” button.
+1. Get to know your groupmates, and click join group to continue. 
+1. You can see your groupmates through your profile. Menu->social->your group name.
+
+**Task 2 Instruction**
+1. From the Home tab, tap the Menu button and select the Social tab.
+1. Navigate to the “Social Computing” group.
+1. Tap the Menu button again and choose “Study Cards.”
+1. To create a new card, tap the “+” button at the bottom of the screen.
+1. Choose a card color and select the card type — either Multiple Choice Question (MCQ) or Definition.
+1. Edit the front and back of the card:
+    - For Definition cards, add your term and its definition.
+    - For MCQ cards, enter your question, possible answers, and select the correct one.
+1. Choose the set where the new card will be added.
+1. Once saved, you’ll unlock a reward for your pet and earn coins.
+
+**Task 3 Instruction**
+1. To access the card page through profile navigate to menu->social->your group->menu->study cards.
+2. Click any available card to open.
+3. Read the question, pick an option if MCQ. To check the answer, tap the card. It will flip to reveal the answer.
+1. Send feedback of how well you answered the question. Click next to continue.
+1. After finishing, upvote or downvote the card to earn coins. 
+1. Click ‘leave” to return to card page.
+
+**Task 4 Instruction**
+1. From the Home tab, tap the Menu button and select the Social tab.
+1. Navigate to the “Social Computing” group.
+1. Tap the Menu button again and choose “Group Session.”
+1. You’ll see a summary of all previous group sessions, along with access to the session history logs.
+1. To create a new session, tap the “+” button at the bottom of the screen.
+1. Set the session duration and select your participants.
+1. Once the session ends, your earned coins will be displayed on the screen.
+
 
 ## Observations from User-testing
 #### Participants
