@@ -38,7 +38,17 @@ This tool is designed to help students find social learning opportunities within
 - Low-fi prototype of group study session reflects the general flow of the process and does not address edge cases such as users attempting to game the system
 - Profile settings are not simulated because they are not core to our solution
 ### Representative screenshots
-<img src="images/learner_type.png" alt="Quiz Result 1" width="200"/>   <img src="images/group_match.png" alt="Quiz Result 2" width="200"/>
+
+<img src="images/quiz.png" alt="Quiz Result 1" width="200"/>   <img src="images/group_match.png" alt="Quiz Result 2" width="200"/>\
+Above: [A Quiz Question] [Group matching based on the quiz]\
+<img src="images/main screen.png" alt="Quiz Result 1" width="200"/>\
+Above: [Group Homepage]\
+<img src="images/card creation.png" alt="Quiz Result 1" width="200"/>\
+Above: [A snapshot of card creation for multiple-choice question]\
+<img src="images/test.png" alt="Quiz Result 1" width="200"/> <img src="images/upvote.png" alt="Quiz Result 2" width="200"/>\
+Above: [Flashcard quiz completion] [A window for down- or upvoting the question just answered]\
+<img src="images/group session.png" alt="Quiz Result 1" width="200"/>\
+Above: [Study session log with a button to start a new session]\
 
 ### Instructions
 **Task 1 Instruction**
@@ -80,7 +90,7 @@ This tool is designed to help students find social learning opportunities within
 
 
 ## Observations from User-testing
-#### Participants
+### Participants
 Participant 1 (P1) - Jana
 - 21-year-old Industrial Design undergraduate student
 - igh tech proficiency with Apple ecosystem; heavy social media user
@@ -102,7 +112,7 @@ Participant 3 (P3) - Insar
 - Prefers studying with friends for difficult material, alone for simpler tasks
 - Frequently works on independent group projects 
 
-#### Usability Problems Discovered
+### Usability Problems Discovered
 
 ONBOARDING & QUIZ FLOW
 1. Insufficient first-time user guidance [HIGH]
