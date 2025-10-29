@@ -48,7 +48,7 @@ Above: [A snapshot of card creation for multiple-choice question]\
 <img src="images/test.png" alt="Quiz Result 1" width="200"/> <img src="images/upvote.png" alt="Quiz Result 2" width="200"/>\
 Above: [Flashcard quiz completion] [A window for down- or upvoting the question just answered]\
 <img src="images/group session.png" alt="Quiz Result 1" width="200"/>\
-Above: [Study session log with a button to start a new session]\
+Above: [Study session log with a button to start a new session]
 
 ### Instructions
 **Task 1 Instruction**
