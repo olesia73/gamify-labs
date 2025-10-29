@@ -4,10 +4,23 @@ Gamify Labs: Alua Kaliazhdarova, Olesia Bilyk, Johan Ronnquist, Sche In Baek
 University students miss out on collaborative study opportunities in classes due to feeling uncomfortable approaching classmates and continuing to engage with them throughout the semester, leading to isolated learning and lower academic performance.
 
 ## Tasks
-1. Take a quiz when entering the app for the first time, find out your learning type and get matched with other students based on it
-1. Create a flashcard set or add cards to already existing sets created by your group; receive a publically visible reward and possibly an accessory for your avatar
+1. Take a quiz when entering the app for the first time, find out your learning type and get matched with other students based on it. 
+    - **User perspective:** “I want to discover my learning style and get matched with compatible classmates while receiving a personalized study companion"
+    - **Task description:** When first entering the app, users take a brief compatibility quiz about their study goals, pace, schedule, and learning preferences. Based on their responses, they're assigned a learning type and a corresponding virtual pet (owl, bee, dolphin, fox, or cat). The system then matches them with a study group within their class that has compatible study patterns and overlapping availability. This eliminates the anxiety of cold-approaching random classmates by providing pre-vetted, compatible study partners.
+    - **Why this solves the problem:** Removes the social barrier of initiating contact by using algorithmic matching instead of requiring students to approach strangers. The quiz provides a structured, low-pressure way to share preferences, and receiving a pet immediately creates a playful first experience that reduces anxiety about joining a group
+1. Create a flashcard set or add cards to already existing sets created by your group; receive a publically visible reward and possibly an accessory for your avatar. 
+    - **Task description:** Users create flashcard sets or add cards to existing sets shared within their study group. They can choose between multiple-choice questions or definition-based cards. As they contribute, they earn points that grow their virtual pet, making their effort visible to groupmates. This builds credibility and rapport asynchronously, allowing shy students to demonstrate value before face-to-face interaction.
+    - **User perspective:** "I contribute to my study group and the community by sharing study tools that I’ve made, and earn visible rewards that motivate me even further to keep contributing.”
+    - **Why this solves the problem:** Allows students to demonstrate value and build credibility through study contributions before having to perform socially. The asynchronous nature reduces pressure.
+
 1. Test yourself with a set of cards and upvote or downvote cards along the way
+    - **User perspective:** “I use the cards made by my groupmates and other classmates to learn and test my knowledge. I can check whether the card set is good based on the upvotes and downvotes, or evaluate them myself.”
+    - **Task description:** Users browse flashcard sets created by their group members and test themselves. While studying, they can upvote helpful cards or downvote confusing ones, helping the group curate high-quality study materials. Studying also earns contribution points, rewarding both creation and active learning.
+    - **Why this solves the problem:** Enables participation without requiring real-time social interaction; voting system gives everyone input on quality without having to speak up in person; shared learning activity creates common ground before face-to-face meetings.
 1. See the log of your group's joint study sessions and create a new one in ~one click; the rest of the group can hop on
+    - **User perspective:** “I can see the progress we have made as a group in studying, which feels rewarding itself. If I want, I may start a new session anytime, and if my groupmates are available, they can join me at their own time.”
+    - **Task description:** Users can view a chronological log of their group's past study sessions showing when they met, who attended, and what they studied. When they want to start a new session, they click "Create Session" which sends a notification to all group members. Groupmates can join the session at their convenience through the notification or by checking the group's active sessions page. The session tracks participation time and awards contribution points to all attendees.
+    - **Why this solves the problem:** It makes collaboration effortless and natural, as the app notifies the groupmates, the user doesn’t have to initiate conversations and planning themselves.
 
 ## Prototype
 #### Link
