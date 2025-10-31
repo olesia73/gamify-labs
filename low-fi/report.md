@@ -149,7 +149,7 @@ NAVIGATION & INFORMATION ARCHITECTURE
     - Settings button blends into background and is difficult to notice (P3)
     - Plan: Increase contrast or use outlined icon style; consider relocating to standard position
 1. Accessing study cards only through group profile [HIGH]
-    - The study cards can be only accessed through accessing the group profile, although they are general.
+    - The study cards can be only accessed through accessing the group profile, although they are general. (P2)
     - P2 asked “why do I have chemistry and social computing on the same page, if I access the cards through my study group?”
     - Plan: Put study cards in the personal profile menu, rather than group profile.
     - Alternative Plan: Add a feature of creating cards together with your group members real-time to enhance the socialness of the activity
@@ -162,15 +162,15 @@ NAVIGATION & INFORMATION ARCHITECTURE
 
 STUDY CARD CREATION
 1. Card types not clearly differentiated [HIGH]
-    - Users don't understand differences between Title, Studygram, and Question card types (P1)
+    - Users don't understand differences between Title, Studygram, and Question card types (P1/Studio)
     - When asked if she understood card types, P1 answered "she didn't"
     - Plan: Add descriptive subtitles under each type: "Title: Headers & dividers", "Studygram: Visual notes", "Question: Q&A flashcards"
 9. "Set" terminology completely unclear [MEDIUM]
     - Users confused about what "set" means - course, collection, or something else (P1)
     - P1 asked "Add it to set what set? Do you mean the course? If I am already in social computing group then what's the point of adding it to a set"
-    - Plan: Replace "set" with clearer term like "Course" or "Subject" and add contextual explanation
+    - Plan: Add contextual explanation since set names corresponded to course names for the simplicity of the prototype which will not be the case
 10. Color picker offers too many options [LOW]
-    - Excessive color choices are overwhelming and unnecessary (P2)
+    - Excessive color choices are overwhelming and unnecessary (P2/Studio)
     - Studio audience suggested colour contrast check to ensure the content is readable
     - Plan: Reduce to 8-12 curated colors with optional custom color for advanced users
 
