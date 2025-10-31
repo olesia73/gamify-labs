@@ -152,6 +152,12 @@ NAVIGATION & INFORMATION ARCHITECTURE
     - The study cards can be only accessed through accessing the group profile, although they are general.
     - P2 asked “why do I have chemistry and social computing on the same page, if I access the cards through my study group?”
     - Plan: Put study cards in the personal profile menu, rather than group profile.
+    - Alternative Plan: Add a feature of creating cards together with your group members real-time to enhance the socialness of the activity
+1. Social screen is not too social [HIGH]
+    - While personal pets can improved, shared space cannot (Studio)
+    - It was suggested to add a feature of the group taking care of their surroundings in the social room together: "I personally would not care for a log of three-hour study session, but our garden looking better would be exciting"
+    - Plan: Add group rewards that have visual effect on the social page
+
 
 
 STUDY CARD CREATION
@@ -165,6 +171,7 @@ STUDY CARD CREATION
     - Plan: Replace "set" with clearer term like "Course" or "Subject" and add contextual explanation
 10. Color picker offers too many options [LOW]
     - Excessive color choices are overwhelming and unnecessary (P2)
+    - Studio audience suggested colour contrast check to ensure the content is readable
     - Plan: Reduce to 8-12 curated colors with optional custom color for advanced users
 
 GROUP STUDY SESSIONS
@@ -176,11 +183,15 @@ GROUP STUDY SESSIONS
     - Users questioned the overall purpose and benefit of creating sessions (P3)
     - P3 asked "didn't make sense what is the point"
     - Plan: Add benefit-focused copy explaining sessions and show examples of successful sessions
+1. Insufficient amount of social incentive [MEDIUM]
+    - This was reported about the program in general (Studio)
+    - Possible additions such as ranking could be made for the entire class
+    - Plan: add the ranking of groups based on their study logs, give out perks to the leading groups
 
 VISUAL DESIGN
 1. Excessive color usage reduces clarity [LOW]
-    - Too many different colors used, reducing visual hierarchy (P1)
+    - Too many different colors used, reducing visual hierarchy (P1/Studio)
     - P1 advised "Be mindful of colours. Minimize the colours or use different shades of green"
-    - Plan: Establish disciplined color system with 1 primary color, 1-2 accents, and neutral grays
+    - Plan: Establish disciplined color system with 1 primary color, 1-2 accents, and neutral grays; check for contrast
 
-Testing with P1, P2, and P3 revealed that while the core concept resonated ("would use it if there is someone actually helpful there"), the app suffers from unclear terminology, insufficient onboarding, and missing contextual guidance. The most critical issues to address are: (1) adding first-time user onboarding, (2) fixing back navigation, (3) clarifying card types and "set" terminology, and (4) explaining the timer purpose. P1 appreciated the quiz concept and basic navigation but noted "it took time to learn how to use it... just some functions not clear."
+Testing with P1, P2, and P3 revealed that while the core concept resonated ("would use it if there is someone actually helpful there"), the app suffers from unclear terminology, insufficient onboarding, and missing contextual guidance. The most critical issues to address are: (1) adding first-time user onboarding, (2) fixing back navigation, (3) clarifying card types and terminology, and (4) explaining the timer purpose. P1 appreciated the quiz concept and basic navigation but noted "it took time to learn how to use it... just some functions are not clear."
